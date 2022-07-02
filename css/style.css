@@ -24,3 +24,6 @@ hr{
 .heading:hover{
     color:#F87474
 }
+p{
+    margin-block-end: 0em;
+}
