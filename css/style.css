@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+:root{
+    --color: steelblue;
+    --color2: black;
+}
+body{
+    background-color: #EAF6F6;
+    font-family: 'Poppins', sans-serif;
+    
+}
+hr{
+
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 10px;
+    color: blue;
+    background-color: #EAF6F6;  
+    width: 5%;
+}
+.heading{
+    color:var(--color);
+    text-align: ;
+}
+.heading:hover{
+    color:#F87474
+}
